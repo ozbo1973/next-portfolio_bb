@@ -1,4 +1,5 @@
 {
   "version": 2,
-  "name": "bovero-next"
+  "name": "bovero-next",
+  "builds": [{ "src": "next.config.js", "use": "@now/next" }]
 }
