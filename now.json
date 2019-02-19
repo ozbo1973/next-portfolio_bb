@@ -2,6 +2,5 @@
   "version": 2,
   "name": "bovero-next",
   "alias": ["bovero-next.now.sh"],
-  "builds": [{ "src": "next.config.js", "use": "@now/next" }],
-  "github": { "enabled": true }
+  "builds": [{ "src": "next.config.js", "use": "@now/next" }]
 }
